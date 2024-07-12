@@ -1,2 +1,2 @@
-# repositorio-git-curso
+# Mi primer ReadMe
 Repositorio del Curso
